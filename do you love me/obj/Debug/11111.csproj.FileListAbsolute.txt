@@ -1,0 +1,10 @@
+C:\Users\pcixm\source\repos\11111\11111\obj\Debug\11111.csproj.AssemblyReference.cache
+C:\Users\pcixm\source\repos\11111\11111\obj\Debug\_11111.Properties.Resources.resources
+C:\Users\pcixm\source\repos\11111\11111\obj\Debug\11111.csproj.GenerateResource.cache
+C:\Users\pcixm\source\repos\11111\11111\obj\Debug\11111.csproj.CoreCompileInputs.cache
+C:\Users\pcixm\source\repos\11111\11111\bin\Debug\11111.exe.config
+C:\Users\pcixm\source\repos\11111\11111\bin\Debug\11111.exe
+C:\Users\pcixm\source\repos\11111\11111\bin\Debug\11111.pdb
+C:\Users\pcixm\source\repos\11111\11111\obj\Debug\11111.exe
+C:\Users\pcixm\source\repos\11111\11111\obj\Debug\11111.pdb
+C:\Users\pcixm\source\repos\11111\11111\obj\Debug\_11111.test.resources
